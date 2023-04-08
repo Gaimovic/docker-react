@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit and save to reload test
+          Edit and save to reload test branch check
         </p>
         <a
           className="App-link"
